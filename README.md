@@ -32,5 +32,3 @@ The performance of the classifier is evaluated using a confusion matrix. The con
 - This exercise is inspired by machine learning tutorials and examples.
 - Thank you to the open-source community for providing valuable resources and tools.
 ```
-
-Feel free to modify and customize the `README.md` file as per your requirements.
