@@ -26,28 +26,6 @@ git clone https://github.com/w412k/iris-flower-prediction.git
 
 The performance of the classifier is evaluated using a confusion matrix. The confusion matrix allows us to visualize the accuracy of the model's predictions for each class (species of Iris flower).
 
-## Results
-
-Include any important findings or results from your analysis here. You can discuss the accuracy of the classifier, any insights gained, or potential areas for improvement.
-
-## Contributing
-
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your changes and commit them with descriptive commit messages.
-
-4. Push your changes to your forked repository.
-
-5. Open a pull request in this repository, describing the changes you made.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - The Iris dataset used in this project is available in the `sklearn` library.
