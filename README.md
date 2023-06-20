@@ -13,7 +13,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/iris-flower-prediction.git
+git clone https://github.com/w412k/iris-flower-prediction.git
 ```
 
 2. Install the required dependencies. Make sure you have Python and the necessary packages installed (e.g., scikit-learn).
